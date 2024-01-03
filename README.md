@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rinjha Sijapati</h1>
-<h3 align="center">A web passionate developer</h3>
+<h3 align="center">A passionate web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rinjhasijapati&label=Profile%20views&color=80cbf9&style=flat" alt="rinjhasijapati" /> </p>
 
